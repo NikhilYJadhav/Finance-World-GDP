@@ -2,6 +2,8 @@
 Power BI Project Finance World GDP
 
 
+![Screenshot 2024-05-10 143755](https://github.com/NikhilYJadhav/Finance-World-GDP/assets/112622476/f437d4ad-8bb6-4b58-afcc-d5701507c046)
+
 
 In this, we will see how to create the GDP dashboard to analyze GDP growth.
 
